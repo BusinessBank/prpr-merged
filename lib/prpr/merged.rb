@@ -1,7 +1,4 @@
 require "prpr/merged/version"
+require "prpr/action/merged/merged"
+require "prpr/handler/merged"
 
-module Prpr
-  module Merged
-    # Your code goes here...
-  end
-end
